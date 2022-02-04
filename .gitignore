@@ -1,0 +1,5 @@
+.venv/*
+.vscode/*
+note/__pycache__/*
+note/notes.db
+workspace.code-workspace
